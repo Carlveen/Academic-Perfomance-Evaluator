@@ -1,0 +1,85 @@
+h1 {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    color: rgb(17, 98, 98);
+    font-weight: bolder;
+    border-radius: 5 px;
+    font-size: larger;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+
+body{
+    background-color: rgb(17, 19, 19);
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, black, rgb(35, 35, 41));
+    width: 100%;
+}
+
+.academic {
+    font-size: medium;
+    color: rgb(20, 99, 97);
+    border: solid 3px rgb(77, 29, 11);
+    border-radius: 10px;
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    background-color: #04AA6D;
+    
+    
+}
+
+Ul {
+    color: darkgreen;
+    font-style: oblique;
+    display:flex;
+    list-style: none;
+    background-color:lightblue;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+
+.li1{
+    position: absolute;
+    right: 75px;
+}
+
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+}
+.li2{
+    position: absolute;
+    right: 0px;
+}
+
+.li {
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bolder;
+    background-color: #04AA6D;
+}
+
+
+p {
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large;
+}
+
+.p1 {
+    background-color: rgb(30, 43, 43);
+    padding: 30px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 80px;
+}
+
